@@ -1,0 +1,9 @@
+Student ID: 1001
+Name: Alice Johnson
+Course: Java Programming
+Grade: 95
+----- Appended Data -----
+Student ID: 1002
+Name: Bob Smith
+Course: Data Structures
+Grade: 88

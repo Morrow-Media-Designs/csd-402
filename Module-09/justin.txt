@@ -1,0 +1,6 @@
+configure router name
+interface g0/1
+ip address 10.1.1.1 255.255.255.0
+configure router name
+interface g0/1
+ip address 10.1.1.1 255.255.255.0
